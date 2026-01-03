@@ -16,22 +16,23 @@ This project predicts whether a loan will be approved based on applicant details
 
 ## 🖥️ Application Interface
 
-![Loan Approval Streamlit App]((https://github.com/mane567/Loan_Approval_Prediction/blob/main/snapshot1.png))
+![Loan Approval Streamlit App](https://github.com/mane567/Loan_Approval_Prediction/blob/main/snapshot1.png)
 
 ## 🎯 Loan Prediction Result
 
-![Prediction Result]((https://github.com/mane567/Loan_Approval_Prediction/blob/main/snapshot2.png))
+![Prediction Result](https://github.com/mane567/Loan_Approval_Prediction/blob/main/snapshot2.png)
 
 
 ## 📊 Model Evaluation
 
-![Heatmap]((https://github.com/mane567/Loan_Approval_Prediction/blob/main/snapshot3.png))
+![Heatmap](https://github.com/mane567/Loan_Approval_Prediction/blob/main/snapshot3.png)
 
 ## Run Project
 ```bash
 pip install -r requirements.txt
 python train_model.py
 streamlit run app.py
+
 
 
 
