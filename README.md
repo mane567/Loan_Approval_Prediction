@@ -14,22 +14,30 @@ This project predicts whether a loan will be approved based on applicant details
 - Scikit-learn
 - Pandas, NumPy
 
+## 🖥️ Application Interface
+
+![Loan Approval Streamlit App]([images/app_ui.png](https://github.com/mane567/Loan_Approval_Prediction/blob/main/snapshot1.png))
+
+## 🎯 Loan Prediction Result
+
+![Prediction Result]([images/prediction.png](https://github.com/mane567/Loan_Approval_Prediction/blob/main/snapshot2.png))
+
+
+## 📊 Model Evaluation
+
+![Heatmap]([images/confusion_matrix.png](https://github.com/mane567/Loan_Approval_Prediction/blob/main/snapshot3.png))
+
 ## Run Project
 ```bash
 pip install -r requirements.txt
 python train_model.py
 streamlit run app.py
 
-## 🖥️ Application Interface
 
-![Loan Approval Streamlit App](images/app_ui.png)
 
-## 🎯 Loan Prediction Result
 
-![Prediction Result](images/prediction.png)
 
-## 📊 Model Evaluation
 
-![Heatmap](images/confusion_matrix.png)
+
 
 
